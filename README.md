@@ -387,6 +387,7 @@ Hurray! You successfully made a contribution!
   - [Sefat Siddiquea Sifa](https://github.com/sifa123)
   - [schmelto](https://github.com/schmelto)
   - [Shanmuganathanb](https://github.com/Shanmuganathanb)
+  - [Shashwat Srivastava](https://github.com/srivastavashashwat05)
   - [Shatakshi Gupta](https://github.com/Shatakshi0805)
   - [Shaun Fitzgibbon](https://github.com/Sfitzg)
   - [Shubham Ayush](https://github.com/shubhamayush12)
